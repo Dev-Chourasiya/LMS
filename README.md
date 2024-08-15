@@ -10,8 +10,10 @@ course module , payement module.
 Here I have use the : React , node.js , tailwind , daisy-ui , MongoDB
 
 The website image is given as :
-![lms_1](https://github.com/Dev-Chourasiya/LMS/blob/main/11%20lms%202.png)
+
+![11 l![lms1](https://github.com/user-attachments/assets/e4a1159e-9014-4d3d-8af4-0c047f11bbbe)
+ms 2](https://github.com/user-attachments/assets/38eadc3a-ef96-4a13-8461-4a0d871e9fb1)
 
 
-![lms_2](https://github.com/Dev-Chourasiya/LMS/blob/main/11%20lms%202.png)
+
 I hope this website will be very useful for the learners for learning different skills. 
