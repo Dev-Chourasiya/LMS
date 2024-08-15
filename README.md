@@ -10,7 +10,7 @@ course module , payement module.
 Here I have use the : React , node.js , tailwind , daisy-ui , MongoDB
 
 The website image is given as :
+![lms_1](https://github.com/Dev-Chourasiya/LMS/blob/main/11%20lms%202.png)
 
-https://github.com/Dev-Chourasiya/LMS/blob/main/11%20lms%202.png
 
-https://github.com/Dev-Chourasiya/LMS/blob/main/11%20lms%202.png
+![lms_2](https://github.com/Dev-Chourasiya/LMS/blob/main/11%20lms%202.png)
