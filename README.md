@@ -14,3 +14,4 @@ The website image is given as :
 
 
 ![lms_2](https://github.com/Dev-Chourasiya/LMS/blob/main/11%20lms%202.png)
+I hope this website will be very useful for the learners for learning different skills. 
